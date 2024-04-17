@@ -20,7 +20,8 @@ public class Operation2 {
 		
 		//문제
 		//1.(12+3)/3 값을 화면에 출력해보세요
-		int value1 = 12;
+		int value1 = 12;  
+		
 		int value2 = 3;
 		System.out.println((value1+value2)/value2);
 		//2. (25 %2) 값을 화면에 출력해보세요
